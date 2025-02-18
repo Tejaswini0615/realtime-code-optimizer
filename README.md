@@ -19,7 +19,7 @@ A powerful AI-driven tool that **analyzes Python code**, **optimizes it using AI
 ### 1️⃣ Clone the Repository
 To start, you need to clone this repository:
 
-```sh
+sh
 git clone https://github.com/your-username/real-time-code-optimizer.git
 cd real-time-code-optimizer
 
