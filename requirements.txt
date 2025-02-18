@@ -1,0 +1,6 @@
+Flask
+streamlit
+psutil
+requests
+pandas
+google-generativeai
