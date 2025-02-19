@@ -19,7 +19,7 @@ A powerful **AI-driven tool** that **analyzes Python code**, **optimizes it usin
 ### 1️⃣ Clone the Repository  
 To start, clone this repository:
 
-sh
+```sh
 git clone https://github.com/your-username/real-time-code-optimizer.git
 cd real-time-code-optimizer
 ```
@@ -85,12 +85,6 @@ Once started, **open the given local URL (e.g., http://localhost:8501) in your b
 
 ---
 
-## 👥 Contributors  
-- **Your Name** - *Developer*  
-- [Add more contributors if needed]
-
----
-
 ## 🤝 Contributing  
 
 Contributions are welcome! To contribute:  
@@ -99,11 +93,6 @@ Contributions are welcome! To contribute:
 3. Commit your changes (`git commit -m "Add new feature"`).  
 4. Push the branch (`git push origin feature-branch`).  
 5. Open a Pull Request.
-
----
-
-## 📝 License  
-This project is **MIT Licensed**. Feel free to modify and distribute it.
 
 ---
 
