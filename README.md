@@ -100,3 +100,7 @@ Contributions are welcome! To contribute:
 For any issues, please open an [issue](https://github.com/Tejaswini0615/realtime-code-optimizer/issues) or contact me at **tejaswinidubey066@gmail.com**.
 
 ---
+## 🛡 License
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+---
